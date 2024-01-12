@@ -1,0 +1,14 @@
+Inicio Fin
+
+
+si ( Sum > 0 )
+{ 
+    leer ( Sum )
+}
+sino
+{
+    escribir ( Hola )
+}
+
+
+
